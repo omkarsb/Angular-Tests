@@ -5,7 +5,7 @@
 * #### Welcome to Angular-Tests
   * ##### Motive for these tests is to check foundation for Basic concepts about Angular.
   * ##### Description gives a brief idea about the challenge and files included.
-  * ##### Solutions are supposed to be tested in Project Environment before submission
+  * ##### Solutions are supposed to be tested in Project Environment before submission.
   
 <br><br><br><br><br>
 
