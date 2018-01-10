@@ -4,7 +4,7 @@
 
 ### TEST 1 : :golf: 
 
-##### Description:  Following files are 2 component files for an election campaign project. Child component needs to be implemented in the parent component such that all people in the array list taken from people.ts are displayed one-by-one.
+#### Description:  Following files are 2 component files for an election campaign project. Child component needs to be implemented in the parent component such that all people in the array list taken from people.ts are displayed one-by-one.
 
 
 
@@ -75,7 +75,7 @@ export const PEOPLE  = [
 
 ### TEST 2 : :golf:
 
-##### Description: This code needs necessary imports, decorators and definitions, to pass string from app.firstsvc to app.component, using function getFirstSvc() defined in app.firstsvc.
+#### Description: This code needs necessary imports, decorators and definitions, to pass string from app.firstsvc to app.component, using function getFirstSvc() defined in app.firstsvc.
 
 ```typescript
 •	/app/app.firstsvc.ts.
@@ -115,7 +115,7 @@ export class AppComponent {
 
 ### TEST 3 : :golf: 
 
-##### Description: These files show implement URL building, HTTP handling, under Aspect-Oriented Programing protocols. Invoice.service.ts needs the necessary decorators and imports, if it needs to make itself available to aspect. Define a function to establish mapping of JSON response.
+#### Description: These files show implement URL building, HTTP handling, under Aspect-Oriented Programing protocols. Invoice.service.ts needs the necessary decorators and imports, if it needs to make itself available to aspect. Define a function to establish mapping of JSON response.
 
 
 
