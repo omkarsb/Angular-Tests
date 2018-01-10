@@ -1,8 +1,8 @@
-# Junior Golf Hub
+<img src="/images/logo.png"> 
   
-## Angular-Tests
+## Angular-Tests 
 
-### TEST 1:
+### TEST 1 : :golf: 
 
 ##### Description:  Following files are 2 component files for an election campaign project. Child component needs to be implemented in the parent component such that all people in the array list taken from people.ts are displayed one-by-one.
 
@@ -73,7 +73,7 @@ export const PEOPLE  = [
 ```
 
 
-### TEST 2:
+### TEST 2 : :golf:
 
 ##### Description: This code needs necessary imports, decorators and definitions, to pass string from app.firstsvc to app.component, using function getFirstSvc() defined in app.firstsvc.
 
@@ -113,7 +113,7 @@ export class AppComponent {
 }
 ```
 
-### TEST 3:
+### TEST 3 : :golf: 
 
 ##### Description: These files show implement URL building, HTTP handling, under Aspect-Oriented Programing protocols. Invoice.service.ts needs the necessary decorators and imports, if it needs to make itself available to aspect. Define a function to establish mapping of JSON response.
 
