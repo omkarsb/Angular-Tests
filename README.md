@@ -23,7 +23,7 @@
 
 import { Component, Input } from '@angular/core';
 
-import { Person } from './person;
+import { Person } from './person';
 
 @Component({
   selector: 'app-person-child',
@@ -49,7 +49,7 @@ export class PersonChildComponent {
 
 import { Component } from '@angular/core';
  
-import { PEOPLE } from './person;
+import { PEOPLE } from './person';
  
 @Component({
 selector: 'app-person-parent',
@@ -104,7 +104,7 @@ export class firstSvc {
 
 import { Component } from '@angular/core';  
 
-import { firstSvc } from './app. firstsvc;  
+import { firstSvc } from './app.firstsvc';  
 
 @Component({ 
    selector: 'my-app', 
